@@ -1,5 +1,7 @@
 # ZenFS Archive Backends
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/zenfs-archives) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
+
 [ZenFS](https://github.com/zen-fs/core) backends for archive files.
 
 This packages adds some backends that allow you to create _readonly_ file systems:
